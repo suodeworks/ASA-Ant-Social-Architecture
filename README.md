@@ -40,4 +40,4 @@ ASA is a six-version architecture that treats natural language as compilable sou
 
 ## License
 
-CC BY-NC 4.0 — You may share and adapt with attribution, but not for commercial purposes without written permission. Contact: suode.works@proton.me
+CC BY-NC 4.0 — You may share and adapt with attribution, but not for commercial purposes without written permission. Contact: suode.works@proton.me 10.5281/zenodo.20176065
